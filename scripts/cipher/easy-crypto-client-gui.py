@@ -62,7 +62,7 @@ layout = [
             sg.Input(default_text='localhost', size=(15, 1), key='-ADDRESS-'),
             sg.Text(":"),
             sg.Input(key='-PORT-', default_text='12345', size=(6, 1))],
-        ], justification='1'),
+        ], justification='left'),
     ], 
     [sg.Text("发送消息:"),
     sg.Input(key='-MESSAGE-', size=(49, 2))],
