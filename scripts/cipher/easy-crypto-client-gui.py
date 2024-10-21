@@ -1,5 +1,5 @@
 #使用cryptography库,pip install cryptography
-#GUI界面使用pysimplegui,pip install pysimplegui
+#GUI界面使用pysimplegui,pip install pysimplegui==4.60.5
 
 import socket
 import base64
