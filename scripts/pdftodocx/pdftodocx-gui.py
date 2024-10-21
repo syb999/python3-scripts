@@ -1,5 +1,5 @@
 #依赖包:
-#pip install PySimpleGUI PyMuPDF python-docx pillow
+#pip install PySimpleGUI==4.60.5 PyMuPDF python-docx pillow
 
 import PySimpleGUI as sg
 import os
